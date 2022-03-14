@@ -8,6 +8,6 @@ docker-compose up -d
 ```
 
 ## how to use
-use browser and browse to http://<host>:8090
+use browser and browse to http://yourDockerHost:8090
 
 
