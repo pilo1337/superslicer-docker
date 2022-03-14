@@ -1,11 +1,13 @@
-## SuperSlicer with noVNC as Container
+# SuperSlicer with noVNC as Container
 
-# how to install
+## how to install
+```
 git clone https://github.com/pilo1337/superslicer-docker
 cd superslicer-docker
 docker-compose up -d
+```
 
-#how to use
+## how to use
 use browser and browse to http://<host>:8090
 
 
