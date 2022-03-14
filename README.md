@@ -14,4 +14,4 @@ use browser and browse to http://yourDockerHost:8090
 
 ## Screenshot
 
-![Screenshot](https://github.com/pilo1337/superslicer-docker/screenshot.png)
+![Screenshot](./screenshot.png)
